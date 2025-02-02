@@ -2,6 +2,8 @@
 
 This repository contains the physical and mathematical modeling of epidemics and complex systems using Python. The project explores fundamental concepts of complex systems and applies them to simulate the dynamics of epidemics on networks. 
 
+![sir](https://github.com/user-attachments/assets/9ea73967-d95f-4291-9583-723d673a7a76)
+
 ## Overview
 The primary objective of this project is to understand how network structures and varying parameters influence the spread of epidemics. Through simulations, we analyze how factors like transmission rates (λ) and recovery times (τ) shape epidemic behaviors and explore scenarios like progressive and regressive outbreaks.
 
